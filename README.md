@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Bioinformatician | Software Developer</p>
+<h3 align="center">Bioinformatician | Software Developer</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h5 align="left">I'm ... from ....<br><br>🌱 I'm currently learning: Java programing.<br>👯 I'm looking to collaborate on Bioinformatics, Data Analysis and software development projects.<br>💼 Open to:  Bioinformatics and software development<br>📫 reach me at: aasmaa.lotfy@gmail.com</h5>
+<h4 align="left">I'm a hard-working engineer with a diverse background in applied Computer Science at hardware and software level. <br>Currently, I'm Interested in the interaction between Biology and Computer Science.<br>I'm seeking to apply my experience to a real-world cooperative environment which provides professional development, interesting experience and personal growth.<br><br>🌱 I'm currently learning: Java programing.<br>👯 I'm looking to collaborate on Bioinformatics, Data Analysis and software development projects.<br>💼 Open to:  Bioinformatics and software development<br>📫 reach me at: aasmaa.lotfy@gmail.com</h4>
 
 ###
 
@@ -65,14 +65,21 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/AsmaaLotfy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/AsmaaLotfy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=https://github.com/AsmaaLotfy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
